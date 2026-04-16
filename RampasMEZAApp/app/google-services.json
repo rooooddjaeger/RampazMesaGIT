@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "842281918721",
+    "project_id": "rampas-meza-app",
+    "storage_bucket": "rampas-meza-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842281918721:android:024fb6cf4069f3e4b87b00",
+        "android_client_info": {
+          "package_name": "com.example.rampasmezaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLvWLoCmxgwEVQT8cpagE-NTx-lvID8dc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
