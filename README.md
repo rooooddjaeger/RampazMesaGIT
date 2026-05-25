@@ -79,14 +79,6 @@ Build > Build APK(s)
 
 ---
 
-
-## 🧪 Testing
-
-```bash
-test/           # Unit tests
-androidTest/    # Instrumented tests
-```
-
 ---
 
 ## 📄 Licencia
