@@ -79,12 +79,6 @@ Build > Build APK(s)
 
 ---
 
-## 🔌 Integraciones
-
-* ☁️ **Firebase**
-* 📧 **EmailJS**
-
----
 
 ## 🧪 Testing
 
@@ -92,15 +86,6 @@ Build > Build APK(s)
 test/           # Unit tests
 androidTest/    # Instrumented tests
 ```
-
----
-
-## 🔄 Mantenimiento
-
-* Versionado de APKs
-* Actualizaciones manuales
-* Respaldo de información
-* Monitoreo de servicios
 
 ---
 
