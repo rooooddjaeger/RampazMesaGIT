@@ -94,9 +94,3 @@ Uso privado - Proyecto empresarial
 Desarrollado como proyecto enfocado a soluciones empresariales con tecnologías móviles modernas.
 
 ---
-
-## Contribuciones
-
-Actualmente este proyecto es **privado**, por lo que no se aceptan contribuciones externas.
-
----
