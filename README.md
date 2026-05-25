@@ -76,17 +76,6 @@ Build > Build APK(s)
 
 2. Instalar en dispositivo autorizado
 3. Habilitar fuentes desconocidas
-
----
-
----
-
-## 📄 Licencia
-
-```
-Uso privado - Proyecto empresarial
-```
-
 ---
 
 ## 👨‍💻 Autor
