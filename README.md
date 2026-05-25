@@ -78,7 +78,7 @@ Build > Build APK(s)
 3. Habilitar fuentes desconocidas
 ---
 
-## 👨‍💻 Autor
+## Autor
 
 Desarrollado como proyecto enfocado a soluciones empresariales con tecnologías móviles modernas.
 
