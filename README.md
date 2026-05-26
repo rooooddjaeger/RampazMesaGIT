@@ -23,9 +23,6 @@ El proyecto está construido bajo el patrón:
 MVVM (Model - View - ViewModel)
 ```
 
-app/
-├── data/                # Modelos de datos
-├── ui/
 │   ├── auth/            # Autenticación
 │   ├── inventario/      # Inventario
 │   ├── ventas/          # Ventas
