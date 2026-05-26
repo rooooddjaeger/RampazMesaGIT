@@ -23,9 +23,6 @@ El proyecto está construido bajo el patrón:
 MVVM (Model - View - ViewModel)
 ```
 
-### 📂 Organización modular
-
-```bash
 app/
 ├── data/                # Modelos de datos
 ├── ui/
