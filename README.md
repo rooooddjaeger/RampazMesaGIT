@@ -15,7 +15,7 @@
 **RampasMEZAApp** es una aplicación Android diseñada para optimizar el control de inventario y el registro de ventas dentro de un entorno empresarial.
 ---
 
-## Tech Stack
+## Tecnologias
 
 | Tecnología          | Uso                 |
 | ------------------- | ------------------- |
