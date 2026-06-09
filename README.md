@@ -15,20 +15,6 @@
 **RampasMEZAApp** es una aplicación Android diseñada para optimizar el control de inventario y el registro de ventas dentro de un entorno empresarial.
 ---
 
-## Tecnologias
-
-| Tecnología          | Uso                 |
-| ------------------- | ------------------- |
-| Kotlin              | Lenguaje principal  |
-| Jetpack Compose     | UI moderna          |
-| ViewModel           | Manejo de estado    |
-| Navigation Compose  | Navegación          |
-| Firebase            | Backend / servicios |
-| EmailJS             | Envío de correos    |
-| Gradle (Kotlin DSL) | Build system        |
-
----
-
 ## Instalación
 
 ### Desarrollo
