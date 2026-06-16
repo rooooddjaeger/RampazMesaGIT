@@ -6,7 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Active-success)
 ![License](https://img.shields.io/badge/License-Private-red)
 
-> 📱 Aplicación móvil empresarial para la gestión de **inventario y ventas**, desarrollada con tecnologías modernas de Android.
+> Aplicación móvil empresarial para la gestión de **inventario y ventas**, desarrollada con tecnologías modernas de Android.
 
 ---
 
