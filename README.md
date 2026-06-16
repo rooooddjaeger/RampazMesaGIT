@@ -42,7 +42,5 @@ Build > Build APK(s)
 ---
 
 ## Autor
-
-Desarrollado como proyecto enfocado a soluciones empresariales con tecnologías móviles modernas.
-
+Salvador Hernandez Juarez
 ---
